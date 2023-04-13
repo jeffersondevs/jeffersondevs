@@ -1,4 +1,4 @@
-### Eu sou, Jefferson Santos! 👋
+### Eu sou o Jefferson Santos! 👋
 
 <!--
 **jeffersondevs/jeffersondevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
