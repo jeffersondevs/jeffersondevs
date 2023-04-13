@@ -1,5 +1,4 @@
 # 💫 About Me:
-Typing SVG
 
 Eu sou o Jefferson Santos!
 
