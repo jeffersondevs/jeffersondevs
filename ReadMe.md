@@ -1,5 +1,9 @@
 # 💫 About Me:
-Olá, sou Jefferson Santos, um administrador de empresas <br>em transição para a carreira de programação. 
+Typing SVG
+
+Eu sou o Jefferson Santos!
+
+• Atualmente estou estudando desenvolvimento web na Trybe
 
 
 ## 🌐 Socials:
